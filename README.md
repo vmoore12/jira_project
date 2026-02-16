@@ -1,4 +1,4 @@
-# Jira Issue Cloner
+# ![Jira Logo](Jira_Logo.jpeg) Jira Issue Cloner
 
 ## Purpose
 This project automates the process of cloning a specific Jira ticket and assigning copies to a list of multiple users. It is designed to streamline task distribution, such as assigning the same coursework to a class of students or a standard task to a team.
