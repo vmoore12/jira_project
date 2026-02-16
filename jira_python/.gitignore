@@ -2,3 +2,7 @@
 credentials.py
 assignees.py
 /.DS_Store
+
+firebase-debug.log
+
+
